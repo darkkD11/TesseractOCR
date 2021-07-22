@@ -54,7 +54,7 @@ class OcrTesseract():
         self.text1.insert(END, text)
 
     def output_file(self, filename, data):
-        file = open(filename, "a+")
+        file = open(filename, "a+",encoding='utf-8')
         file.write(data)
         file.close()
         self.setTextInput(data)

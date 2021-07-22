@@ -1,40 +1,22 @@
- 
+(i) Volume - The name Big Data itself is related to a size which is enormous. Size of data plays a very crucial role
+in determining value out of data. Also, whether a particular data can actually be considered as a Big Data or not,
+is dependent upon the volume of data. Hence, 'Volume' is one characteristic which needs to be considered while
+dealing with Big Data solutions.
 
- 
+(ii) Variety - The next aspect of Big Data is its variety.
 
- 
+Variety refers to heterogeneous sources and the nature of data, both structured and unstructured. During earlier
+days, spreadsheets and databases were the only sources of data considered by most of the applications.
+Nowadays, data in the form of emails, photos, videos, monitoring devices, PDFs, audio, etc. are also being
+considered in the analysis applications. This variety of unstructured data poses certain issues for storage, mining
+and analyzing data.
 
- 
+(iti) Velocity - The term ‘velocity’ refers to the speed of generation of data. How fast the data is generated and
+processed to meet the demands, determines real potential in the data.
 
- 
+Big Data Velocity deals with the speed at which data flows in from sources like business processes, application
+logs, networks, and social media sites, sensors, Mobile devices, ete. The flow of data is massive and continuous.
 
-Mansfield and Co.
-
-59 High Street
-
-Swanage (=the address of the sender)
-14 August, 2006 (=the date)
-
-22 Fleet Street
-London (= the address of the party addressed)
-
-Dear Sir, (=salutation)
-
-We beg to inform you that by order and for account of Mr. Jones of
-Manchester, we have taken the liberty of drawing upon you for $45
-at three months� date to the order of Mr. Sharp. We gladly take this
-opportunity of placing our services at your disposal, and shall be
-pleased if you frequently make use of them. (=body)
-
-Truly yours,
-Mansfield and Co. (=closing)
-by Mary Smith
-
- 
-
- 
-
- 
-
- 
+(iv) Variability - This refers to the inconsistency which can be shown by the data at times, thus hampering the
+process of being able to handle and manage the data effectively.
 
